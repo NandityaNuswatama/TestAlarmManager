@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestAlarmManager</string>
+    <string name="spinner_hint">Pilih Pengingat</string>
+
+    <string-array name="alarm_times">
+        <item>Pilih Pengingat</item>
+        <item>3x Sehari</item>
+        <item>2x Sehari</item>
+        <item>3x dan 2x Sehari</item>
+    </string-array>
+</resources>
